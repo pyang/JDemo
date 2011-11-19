@@ -2,7 +2,7 @@ public class TryTest
 {
    public static void main(String [] args) throws Exception
    {
-	   String a = "a's dfdd[2]asdfad{123avc}";
+	   String a = "a's dfdd[2]asdfad{123avczas}";
 	   System.out.println(a.replaceAll("'", "''"));
 	   
 	   a = "@{ASCII:233}";
